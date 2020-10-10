@@ -1,4 +1,4 @@
-// Array of password criteria (lower case, uppercase, numbers, symbols)
+// Arrays of password criteria (lower case, uppercase, numbers, symbols)
 var lowercaseLetters = [
   "a",
   "b",

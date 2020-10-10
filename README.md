@@ -26,4 +26,4 @@ THEN the password is either displayed in an alert or written to the page
 
 Application will function as Shown
 
-![](Assets\PW Generator.gif)
+![Application Demo](Assets/PW Generator.gif)

@@ -1,10 +1,15 @@
 # Password-Generator
 
+Link: https://timvvoodman.github.io/Password-Generator/
+Contact: timothyrwoodman@gmail.com
+
+Technologoies Used: HTML, CSS, JavaScript
+
 This Application is Designed based on the following requests
 
--AS AN employee with access to sensitive data
--I WANT to randomly generate a password that meets certain criteria
--SO THAT I can create a strong password that provides greater security
+- As an employee with access to sensitive data...
+- I WANT to randomly generate a password that meets certain criteria
+- SO THAT I can create a strong password that provides greater security
 
 Functionality Criteria
 
